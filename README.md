@@ -27,13 +27,14 @@ Networking Academy) and looking for opportunities to grow as a security analyst.
 - **Networking:** Fundamentals (Cisco Networking Academy).
 - **Programming:** Git, Python, C, C++, C#, ReactJS, Vue3, HTML, JavaScript/Typescript, CSS.
 - **Databases**: PostgreSQL, SQLite3, MongoDB. 
-- **Data Analysis:** Power BI, Excel, Google Analytics.
+- **Data Analysis:** MySQL, Power BI, Excel, Google Analytics.
 - **Methodologies:** Scrum, Kanban.
 
 ### Languages
  
-- Portuguese: C3
-- English: C2
-- Spanish: B1
+- Portuguese: Native
+- English: Upper-Intermediate
+- Spanish: Intermediate
+- Italian: Basic
 
 #### All contact information is on the GitHub bio
