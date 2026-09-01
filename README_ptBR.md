@@ -27,14 +27,15 @@ oportunidades para crescer como analista de segurança.
 ### Habilidades
 - **Redes:** Fundamentos (Cisco Networking Academy).
 - **Programação:** Git, Python, C, C++, C#, ReactJS, Vue3, HTML, JavaScript/Typescript, CSS.
-- **Bancos de Dados**: PostgreSQL, SQLite3, MongoDB.
+- **Bancos de Dados**: MySQL, PostgreSQL, SQLite3, MongoDB.
 - **Análise de Dados:** Power BI, Excel, Google Analytics.
 - **Metodologias:** Scrum, Kanban.
 
 ### Idiomas
  
-- Português: C3
-- Inglês: C2
-- Espanhol: B1 
+- Português: Nativo
+- Inglês: Avançado
+- Espanhol: Intermediário
+- Italiano: Básico
 
 #### Todas as informações de contato estão na bio do GitHub
